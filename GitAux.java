@@ -9,7 +9,9 @@ package prgitejemplo;
  * @author bertoa
  */
 public class GitAux {
-    
+    // metodo rama testing
+    System.out.println("Metodo de testing");
+
     public void metodoAlumno1(){
         System.out.println("metodo 1");
     }
